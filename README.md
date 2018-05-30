@@ -21,17 +21,11 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts.
 
-[Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for Ethereum smart contracts.
-
 [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts.
 
 [Echidna](https://github.com/trailofbits/echidna) - Ethereum fuzz testing framework.
 
-[Manticore](https://github.com/trailofbits/manticore) - Manticore uses symbolic execution to simulate complex multi-contract and multi-transaction attacks against EVM bytecode.
-
 [Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features. (Binja)
-
-[Oyente](https://github.com/melonproject/oyente) - An automatic EVM code analyzer based on symbolic execution and Z3 SMT solver.
 
 [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA Processor Module for the Ethereum Virtual Machine.
 
@@ -41,9 +35,8 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [Rattle](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Rattle is an EVM static analyzer that analyzes the EVM bytecode directly for vulnerabilities.
 
-[Slither](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Static analyses on Solidity.
-
 [Diligence](https://consensys.net/diligence/) - Security Services, Tools and Best Practices for the Ethereum Ecosystem.
+
 [fuildai](https://fluidai.co/) - Fluid is an AI that can automatically find and fix fatal security vulnerabilities in Smart Contracts.
 
 ## Blogs
