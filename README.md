@@ -19,11 +19,7 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [Oyente](https://github.com/melonproject/oyente) - An Analysis Tool for Smart Contracts
 
-[Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts.
-
 [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts.
-
-[Echidna](https://github.com/trailofbits/echidna) - Ethereum fuzz testing framework.
 
 [Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features. (Binja)
 
