@@ -178,6 +178,8 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [awesome](https://github.com/sindresorhus/awesome)
 
+[blockchain-security-awesome](https://github.com/0xMrcat/blockchain-security-awesome)
+
 [awesome ethereum](https://github.com/btomashvili/awesome-ethereum)
 
 [awesome ethereum virtual  machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
