@@ -94,6 +94,11 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [scmagazineuk-cryptocurrency](https://www.scmagazineuk.com/cryptocurrency/topic/48080/)
 
+## Smart Contract Auditing Firms
+
+[iosiro](https://www.iosiro.com/)
+[Consensys Diligence] (https://consensys.net/diligence/)
+
 ## Vulnerabilities
 
 [DASP](http://www.dasp.co/)
